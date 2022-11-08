@@ -1,4 +1,4 @@
-package sentenciascontrol;
+package programacion.sentenciascontrol;
 
 public class Condicionales {
     public static void main(String[] args) {
