@@ -76,3 +76,13 @@ R
 ,src/main/java/tiposdedatos/TryCatchMain.java,d\d\dd09209ddcb9df7d1a3f3e670c5e08af5ca3d0ee
 R
 "src/main/java/funciones/While.java,d\4\d4b8402e88dadca73228a6cf0c4247dc5c557d3c
+o
+?src/main/java/programacion/sentenciascontrol/Condicionales.java,7\6\7638e51845f37574eabe335a3606a3ea5b6352cc
+Y
+)src/main/java/programacion/Funciones.java,a\0\a078c8f84956c810383f195fc140d1ca88a51841
+h
+8src/main/java/programacion/sentenciascontrol/Bucles.java,7\5\75f937aefcd77851bb45433d49e0b286cc82a765
+m
+=src/main/java/programacion/sentenciascontrol/Interruptor.java,6\c\6cc11d6cb36b7aa0fecd0b2b81baf0baf43583ce
+t
+Dsrc/main/java/programacion/PrivacidadAbstracciónEncapsulación.java,d\7\d7c0cc7e02a254df55d874d5065ddbf9b489184b
