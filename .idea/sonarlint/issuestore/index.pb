@@ -86,3 +86,9 @@ m
 =src/main/java/programacion/sentenciascontrol/Interruptor.java,6\c\6cc11d6cb36b7aa0fecd0b2b81baf0baf43583ce
 t
 Dsrc/main/java/programacion/PrivacidadAbstracciónEncapsulación.java,d\7\d7c0cc7e02a254df55d874d5065ddbf9b489184b
+Z
+*src/main/java/programacion/Depuracion.java,f\1\f19dff5ead7559b64dfcee169e5860338a427f14
+S
+#src/main/java/programacion/Poo.java,0\6\0651bb976a9469228b8848aef2bf1729b862de11
+h
+8src/main/java/programacion/encapsulacion/Privacidad.java,b\e\be61f493601e24a7212ab62b161a3f8d90d0fbaf

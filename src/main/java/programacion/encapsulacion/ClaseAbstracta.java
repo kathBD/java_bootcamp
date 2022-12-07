@@ -7,6 +7,12 @@ public abstract class   ClaseAbstracta {
     abstract public void setSonido(String sonido);
 }
 
+abstract class Carro{
+    private String tipo;
+    private int velocidadMaxima;
+    private String sonido;
+
+}
 
 
 
